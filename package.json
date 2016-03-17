@@ -1,0 +1,18 @@
+{
+	"name": "Tanques",
+	"version": "1.0.0",
+	"description": "Un juego de tanques en javascript",
+	"main": "server.js",
+	"dependencies": {
+		"body-parser": "1.14.2",
+		"mysql": "^2.10.2",
+		"express": "^4.13.4",
+		"express-jwt": "^3.3.0",
+		"jsonwebtoken": "^5.5.4",
+        "mongodb": "^2.1.4"
+	},
+	"jshintConfig": {
+		"esversion": "es6",
+		"esnext": true
+	}
+}
